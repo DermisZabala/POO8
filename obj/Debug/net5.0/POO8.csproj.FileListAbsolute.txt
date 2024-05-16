@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\bin\Debug\net5.0\POO8.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\bin\Debug\net5.0\POO8.deps.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\bin\Debug\net5.0\POO8.runtimeconfig.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\bin\Debug\net5.0\POO8.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\bin\Debug\net5.0\POO8.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\bin\Debug\net5.0\POO8.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.AssemblyInfo.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\refint\POO8.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\POO8.genruntimeconfig.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\poo\POO8\obj\Debug\net5.0\ref\POO8.dll
